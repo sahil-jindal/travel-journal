@@ -1,0 +1,69 @@
+.location {
+  margin: 36px 40px 36px 40px;
+  display: flex;
+  align-items: center;
+}
+
+.location--pic {
+  width: 125px;
+  height: 168px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.location--info {
+  padding-left: 19px;
+}
+
+.location--google {
+  margin: 0px;
+  line-height: 12px;
+}
+
+.location--country {
+  padding-top: 0px;
+  padding-left: 4px;
+  padding-right: 12px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.24px;
+}
+
+.location-google-link {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.24px;
+  color: #918E9B;
+}
+
+.location--name {
+  margin: 0px;
+  margin-top: 4px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.location--duration {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 10.24px;
+  line-height: 12px;
+  margin-top: 14px;
+  margin-bottom: 9px;
+}
+
+.location--description {
+  margin: 0px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.24px;
+  line-height: 150%;
+}
+

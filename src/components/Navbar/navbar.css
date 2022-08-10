@@ -1,0 +1,22 @@
+.planet--size {
+  width: 24px;
+  height: 24px;
+  
+}
+  
+.navbar {
+  background-color: #F55A5A;
+  padding: 16px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
+
+.text {
+  color: #fff;
+  padding-left: 7px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+}
